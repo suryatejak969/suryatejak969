@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am SuryaTejaKukkadapu 👋
 
 <!--
 **suryatejak969/suryatejak969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi!, I am SuryaTejaKukkadapu
+
+Now I am working on React JS applications to showcase my skills.
+
+Though I am Software Developer, With interest, I worked on several Machine Learning, Deep Learning, NLP models 
+
+Reach me @suryateja.kukkadapu@gmail.com
+
