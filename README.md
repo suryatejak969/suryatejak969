@@ -1,25 +1,15 @@
-## Hi I am SuryaTejaKukkadapu 👋
+# Hi!, I am SuryaTejaKukkadapu 👋
+
+- 🔭 Now I am working on React JS applications to showcase my skills.
+- ⚡ Though I am Software Developer, With interest, I worked on several Machine Learning, Deep Learning, NLP models 
+- 📫 Reach me @suryateja.kukkadapu@gmail.com
+
 
 <!--
-**suryatejak969/suryatejak969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi!, I am SuryaTejaKukkadapu
-
-Now I am working on React JS applications to showcase my skills.
-
-Though I am Software Developer, With interest, I worked on several Machine Learning, Deep Learning, NLP models 
-
-Reach me @suryateja.kukkadapu@gmail.com
-
